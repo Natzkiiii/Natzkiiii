@@ -1,5 +1,9 @@
 # Hi, I’m @Natzkiiii
 
-- I’m interested in Python, Reverse Engineering
-- I’m currently learning Python, Java, HTML, CSS, JS
-- I’m looking to collaborate on 
+- 🌟 **Interests:** Python, Reverse Engineering
+- 📚 **Currently Learning:** Python, Java, HTML, CSS, JavaScript
+- 🤝 **Looking to Collaborate On:** Nothing at the moment
+- 📫 **How to Reach Me:** N/A
+- 🌈 **Pronouns:** she/her
+
+Feel free to explore my repositories and connect with me through GitHub!
