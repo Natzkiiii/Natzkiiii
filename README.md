@@ -1,6 +1,6 @@
 # Hi, I’m @Natzkiiii
 
-- 🌟 **Interests:** Python, Reverse Engineering
+- 🌟 **Interests:** Python, Reverse Engineering, LLM/LM, Multilingual Artificial Intelligence Models, AIs
 - 📚 **Currently Learning:** Python, Java, HTML, CSS, JavaScript
 - 🤝 **Looking to Collaborate On:** Nothing at the moment
 - 📫 **How to Reach Me:** N/A
