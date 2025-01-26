@@ -10,7 +10,7 @@ Feel free to explore my repositories and connect with me through GitHub!
 
 ## DSGVO Compliance
 
-This repository does not collect personal data. Any data provided by users in issues, pull requests, or other contributions is handled in compliance with the [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/).
+my repositories does not collect personal data. Any data provided by users in issues, pull requests, or other contributions is handled in compliance with the [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/).
 Your personal information is only used for the purposes of addressing and resolving your contributions and will NOT be shared with third parties without your explicit consent. If you have any concerns or requests regarding your personal data, please contact me directly, by creating a pull request in this repository.
 
 ## Intellectual Property and Licensing
