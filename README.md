@@ -18,11 +18,8 @@ Your personal information is only used for the purposes of addressing and resolv
 ---
 ## Intellectual Property and Licensing
 
-All content in this repository and other repositories/projects that i created is protected under copyright laws. Republishing, redistributing, or using the content without explicit permission is not allowed unless explicitly stated otherwise. For any inquiries regarding the use of the content, please contact me directly.
+Unless specifically stated otherwise, all content in this repository and other repositories/projects that i created is protected under [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/).
 
 Violation of these terms may lead to legal actions in accordance with [Article 17 of the GDPR (Right to erasure)](https://gdpr-info.eu/art-17-gdpr/) and relevant copyright laws.
 
----
-if there is a license added to the repository, then that means the rules are overridden to the license that repository has.
-
-If you have any questions regarding the licensing, don't hesitate to ask me in this repository by creating an issue.
+if there is a license added to any repository, then that means the rules are overridden to the license that repository has.
