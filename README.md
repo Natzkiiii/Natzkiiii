@@ -25,4 +25,4 @@ Violation of these terms may lead to legal actions in accordance with [Article 1
 ---
 if there is a license added to the repository, then that means the rules are overridden to the license that repository has.
 
-if you have any questions regarding zhe licensing don't hesitate to ask me in this repository by creating an issue.
+If you have any questions regarding the licensing, don't hesitate to ask me in this repository by creating an issue.
